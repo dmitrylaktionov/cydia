@@ -1,0 +1,17 @@
+Package: ru.legacy.codes
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Legacy Codes
+Depends: firmware (>= 6.0)
+Filename: debs/ru.legacy.codes_1.2.1_iphoneos-arm.deb
+Size: 81244
+MD5sum: 37dfb5152c75ef87854abac66244d029
+SHA1: d71d45d7eff90128ff3a79e4a468d186cfbfc543
+SHA256: 8ea136688c9d847e9ddd241371bacf04093c6dcf10da026cba5e3c8fbe93e73b
+Section: Utilities
+Description: Two-factor authentication codes (TOTP) in the iOS 6 style.
+ Works offline, keys stay in the iPhone keychain. Add accounts by scanning a QR code or typing the key.
+Author: Legacy Codes
+Icon: file:///Applications/Codes.app/Icon@2x.png
+Name: Codes
+
