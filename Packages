@@ -33,20 +33,20 @@ Icon: file:///Applications/Flashlight.app/Icon@2x.png
 Name: Flashlight
 
 Package: ru.legacy.speed
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: Legacy Codes
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.speed_2.0.1_iphoneos-arm.deb
-Size: 305754
-MD5sum: c9b18b6810ea2f26965a241e14131337
-SHA1: 06b0af7d55daf3a7e50b53dea8ac9910f0616f97
-SHA256: 56180dbee702153eb8296b25efcd329384d4095ffcbe2eaa9aa41987af7a84c6
+Filename: debs/ru.legacy.speed_2.0.2_iphoneos-arm.deb
+Size: 305758
+MD5sum: 6d2f97a820a77b3cb78a4590b0140892
+SHA1: ba8c19cc3a2a191c4d0a3e361178ff7ec827c32d
+SHA256: 8308d76f4a118c555a5bb9c5ede6bfac3c7e709916adc7bbe7bf3f88ba878fa5
 Section: Utilities
 Description: Internet speed test with an analog gauge, in the iOS 6 style.
  A chrome-rimmed instrument on black leather. Measures ping, download and upload
  against nearby Yandex Internetometer servers.
 Author: Legacy Codes
 Icon: file:///Applications/Speed.app/Icon@2x.png
-Name: Enetometer
+Name: Inetometer
 
