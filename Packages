@@ -33,15 +33,15 @@ Icon: file:///Applications/Flashlight.app/Icon@2x.png
 Name: Flashlight
 
 Package: ru.legacy.speed
-Version: 1.7
+Version: 1.8
 Architecture: iphoneos-arm
 Maintainer: Legacy Codes
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.speed_1.7_iphoneos-arm.deb
-Size: 291256
-MD5sum: ce0d4ce2258e481e854aa7fc3928d415
-SHA1: 671f3d4011eefb127d8c109690cc181788c55281
-SHA256: 0ab9d57f97af65a7707f92de8ba32388b0f1446d6d0e7c8a6c0aaa35a5e9af2d
+Filename: debs/ru.legacy.speed_1.8_iphoneos-arm.deb
+Size: 291458
+MD5sum: 7db820f609bb50ec15bbf068846d9aa6
+SHA1: f95bd360b37c48c76a1da85a39f6d5dd871c1867
+SHA256: 2f932d851bcb8399bb1744ee594eff5e5e75542225a280da349200017b53c24d
 Section: Utilities
 Description: Internet speed test with an analog gauge, in the iOS 6 style.
  Measures ping, download and upload against nearby Yandex Internetometer servers.
