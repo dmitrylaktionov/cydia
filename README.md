@@ -8,4 +8,4 @@ Packages:
 
 - **Codes** — two-factor authentication codes (TOTP)
 - **Flashlight** — LED flashlight with brightness control
-- **Netometer** — internet speed test with an analog gauge on black leather (Yandex Internetometer servers)
+- **Enetometer** — internet speed test with an analog gauge on black leather (Yandex Internetometer servers)
