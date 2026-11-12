@@ -1,6 +1,39 @@
-<!DOCTYPE html><html><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width"><title>Legacy Codes</title></head>
-<body style="font-family:Helvetica,Arial,sans-serif;text-align:center;padding:40px 20px">
-<img src="CydiaIcon.png" width="64" height="64" alt=""><h1>Legacy Codes</h1>
-<p>Cydia repository with apps for iOS 6. Add this page's address as a source in Cydia.</p>
-</body></html>
+<!DOCTYPE html>
+<html class="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Legacy Apps — Cydia repository for iOS 6</title><link rel="stylesheet" href="style.css"><script>
+(function(){var l;try{l=localStorage.getItem('lang')}catch(x){}
+if(!l){l=(navigator.language||navigator.userLanguage||'en').toLowerCase().indexOf('ru')==0?'ru':'en'}
+document.documentElement.className=l;
+window.setLang=function(v){try{localStorage.setItem('lang',v)}catch(x){}document.documentElement.className=v;return false};})();
+</script></head>
+<body><div class="wrap">
+
+<div class="hero"><img src="CydiaIcon.png" alt=""><h1>Legacy Apps</h1>
+<p><span class="t-en">Apps for jailbroken iOS 6, made to look like Apple’s own.</span><span class="t-ru">Приложения для iOS 6 с джейлбрейком — в стиле родных приложений Apple.</span></p></div>
+
+<a class="btn" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://dmitrylaktionov.github.io/cydia/"><span class="t-en">Add to Cydia</span><span class="t-ru">Добавить в Cydia</span></a>
+<p class="foot"><span class="t-en">Open this page on your iPhone and tap the button. Or add the source by hand: Cydia → Sources → Edit → Add.</span><span class="t-ru">Откройте эту страницу на iPhone и нажмите кнопку. Или добавьте источник вручную: Cydia → Sources → Edit → Add.</span></p>
+<div class="group" style="margin-top:10px"><div class="row src">https://dmitrylaktionov.github.io/cydia/</div></div>
+
+<h2><span class="t-en">Apps</span><span class="t-ru">Приложения</span></h2>
+<div class="group"><a class="app" href="depictions/ru.legacy.codes/"><img src="icons/ru.legacy.codes.png" alt=""><b><span class="t-en">Codes</span><span class="t-ru">Коды</span></b><small><span class="t-en">Two-factor authentication codes</span><span class="t-ru">Коды двухфакторной аутентификации</span></small></a><a class="app" href="depictions/ru.legacy.flashlight/"><img src="icons/ru.legacy.flashlight.png" alt=""><b><span class="t-en">Flashlight</span><span class="t-ru">Фонарик</span></b><small><span class="t-en">LED flashlight</span><span class="t-ru">Светодиодный фонарик</span></small></a><a class="app" href="depictions/ru.legacy.speed/"><img src="icons/ru.legacy.speed.png" alt=""><b><span class="t-en">Inetometer</span><span class="t-ru">Инетометр</span></b><small><span class="t-en">Internet speed test</span><span class="t-ru">Измерение скорости интернета</span></small></a></div>
+
+<h2><span class="t-en">Requirements</span><span class="t-ru">Требования</span></h2>
+<div class="group"><div class="row">
+<div class="t-en">iOS 6 with a jailbreak and Cydia. Built for 32-bit devices: iPhone 3GS–5, iPod touch 4–5. Tested on iPhone 4S, iOS 6.1.3. On iPad the apps run in iPhone mode.</div><div class="t-ru">iOS 6 с джейлбрейком и Cydia. Собрано для 32-битных устройств: iPhone 3GS–5, iPod touch 4–5. Проверено на iPhone 4S, iOS 6.1.3. На iPad приложения запускаются в режиме iPhone.</div>
+</div></div>
+
+<h2><span class="t-en">Manual install</span><span class="t-ru">Установка вручную</span></h2>
+<div class="group"><div class="row dl"><a href="debs/ru.legacy.codes_1.2.4_iphoneos-arm.deb">ru.legacy.codes_1.2.4_iphoneos-arm.deb</a> <small>· 82 KB</small></div><div class="row dl"><a href="debs/ru.legacy.flashlight_1.0.2_iphoneos-arm.deb">ru.legacy.flashlight_1.0.2_iphoneos-arm.deb</a> <small>· 143 KB</small></div><div class="row dl"><a href="debs/ru.legacy.speed_2.5.1_iphoneos-arm.deb">ru.legacy.speed_2.5.1_iphoneos-arm.deb</a> <small>· 295 KB</small></div>
+<div class="row"><div class="t-en">Copy the .deb to the device and run as root:</div><div class="t-ru">Скопируйте .deb на устройство и выполните от root:</div>
+<div class="src" style="margin-top:6px">dpkg -i file.deb &amp;&amp; uicache</div></div></div>
+
+<h2><span class="t-en">Acknowledgements</span><span class="t-ru">Благодарности</span></h2>
+<div class="group"><div class="row">
+<div class="t-en">Codes uses <a href="https://github.com/dlbeer/quirc">quirc</a> by Daniel Beer for QR-code recognition (ISC license).</div><div class="t-ru">«Коды» используют библиотеку <a href="https://github.com/dlbeer/quirc">quirc</a> Дэниела Бира для распознавания QR-кодов (лицензия ISC).</div>
+</div></div>
+<p class="foot"><span class="t-en">Not affiliated with Apple, Yandex or Cloudflare. Free, no ads, no tracking.</span><span class="t-ru">Не связано с Apple, Яндексом или Cloudflare. Бесплатно, без рекламы и слежки.</span></p>
+<div class="lang"><a href="#" class="l-en" onclick="return setLang('en')">English</a><a href="#" class="l-ru" onclick="return setLang('ru')">Русский</a></div>
+
+</div></body></html>

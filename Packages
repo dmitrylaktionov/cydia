@@ -1,52 +1,55 @@
 Package: ru.legacy.codes
-Version: 1.2.3
+Version: 1.2.4
 Architecture: iphoneos-arm
-Maintainer: Legacy Codes
+Maintainer: Legacy Apps
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.codes_1.2.3_iphoneos-arm.deb
-Size: 83026
-MD5sum: 7853df32b5c1539dfb5a36aeacb6c16b
-SHA1: 1709ac81e560ed8af89853cea31d4fa7f9eb99b4
-SHA256: e1df35d735e4a3e2a07a0b54af3d83e40e2f5cf8c93a87b3b4c07fa07d3f988b
+Filename: debs/ru.legacy.codes_1.2.4_iphoneos-arm.deb
+Size: 83574
+MD5sum: 773fffbeb08daa127d36ea4cbbe379d2
+SHA1: 947b96086720fd103abec03f8952be045d6c9c12
+SHA256: bb19e367d64228d38f68c787af785199752340dc2719e615911bbc1537b8bbdb
 Section: Utilities
 Description: Two-factor authentication codes (TOTP) in the iOS 6 style.
  Works offline, keys stay in the iPhone keychain. Add accounts by scanning a QR code or typing the key.
-Author: Legacy Codes
+Author: Legacy Apps
+Depiction: https://dmitrylaktionov.github.io/cydia/depictions/ru.legacy.codes/
 Icon: file:///Applications/Codes.app/Icon@2x.png
 Name: Codes
 
 Package: ru.legacy.flashlight
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: Legacy Codes
+Maintainer: Legacy Apps
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.flashlight_1.0.1_iphoneos-arm.deb
-Size: 146806
-MD5sum: 8b9c0335c0bb773be7137060ca8dd10f
-SHA1: a9f3855a9277ce0cc96e8d83d3f5691f567d51a8
-SHA256: f8b69273a28c83e08e1c7bdd829109c417ca2595ec3c3a0ee4cc09ec8feb9c23
+Filename: debs/ru.legacy.flashlight_1.0.2_iphoneos-arm.deb
+Size: 146842
+MD5sum: 7694f755608402fd5aab54a0a41a3bf2
+SHA1: 8a92075ca3aa713b950c73a1104c6d96c9f8e2fe
+SHA256: f61a08731d47a7738815b3d1bdc88d79cf1b52d35db3394ff45ce6d07c3e090f
 Section: Utilities
 Description: A flashlight in the iOS 6 style.
  One big button, adjustable LED brightness, and a white-screen light on devices without a flash.
-Author: Legacy Codes
+Author: Legacy Apps
+Depiction: https://dmitrylaktionov.github.io/cydia/depictions/ru.legacy.flashlight/
 Icon: file:///Applications/Flashlight.app/Icon@2x.png
 Name: Flashlight
 
 Package: ru.legacy.speed
-Version: 2.5
+Version: 2.5.1
 Architecture: iphoneos-arm
-Maintainer: Legacy Codes
+Maintainer: Legacy Apps
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.speed_2.5_iphoneos-arm.deb
-Size: 302308
-MD5sum: b42da03b2b81930492353c6122785d48
-SHA1: cfcfb00cbcd7b525d63039e97a11950044d08009
-SHA256: b8be0c6ad80fb01b535575a40fa4cccdec4d6eeec955833081e4c802835c69ca
+Filename: debs/ru.legacy.speed_2.5.1_iphoneos-arm.deb
+Size: 302348
+MD5sum: d97ad7d04621ef9fdc87521674fb9993
+SHA1: a5d9205a1b682800e1ade0aafbdd50c60bd36082
+SHA256: 59558a0615482ea7d007530590862c3f8e26fe5c80e9b2541ad141c02c7c1850
 Section: Utilities
 Description: Internet speed test with an analog gauge, in the iOS 6 style.
  A chrome-rimmed instrument on black leather. Measures ping, download and upload
  against the nearest server: Yandex Internetometer (Russia and nearby) or Cloudflare (worldwide).
-Author: Legacy Codes
+Author: Legacy Apps
+Depiction: https://dmitrylaktionov.github.io/cydia/depictions/ru.legacy.speed/
 Icon: file:///Applications/Speed.app/Icon@2x.png
 Name: Inetometer
 

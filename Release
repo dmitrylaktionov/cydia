@@ -1,8 +1,8 @@
-Origin: Legacy Codes
-Label: Legacy Codes
+Origin: Legacy Apps
+Label: Legacy Apps
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Apps for iOS 6
+Description: Apps for jailbroken iOS 6 in the native style
