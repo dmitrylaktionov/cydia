@@ -1,13 +1,13 @@
 Package: ru.legacy.codes
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Legacy Codes
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.codes_1.2.2_iphoneos-arm.deb
-Size: 81702
-MD5sum: e7d6f3d905ce0ae05997e2d7287ba853
-SHA1: c3386bf15de21df5ab3a7e092d70e99b6dbafd37
-SHA256: 4356c9fa835abf4c4714ed4026d931745b335a2479e922d5a09228e5e3ec6ca5
+Filename: debs/ru.legacy.codes_1.2.3_iphoneos-arm.deb
+Size: 83026
+MD5sum: 7853df32b5c1539dfb5a36aeacb6c16b
+SHA1: 1709ac81e560ed8af89853cea31d4fa7f9eb99b4
+SHA256: e1df35d735e4a3e2a07a0b54af3d83e40e2f5cf8c93a87b3b4c07fa07d3f988b
 Section: Utilities
 Description: Two-factor authentication codes (TOTP) in the iOS 6 style.
  Works offline, keys stay in the iPhone keychain. Add accounts by scanning a QR code or typing the key.
@@ -16,15 +16,15 @@ Icon: file:///Applications/Codes.app/Icon@2x.png
 Name: Codes
 
 Package: ru.legacy.flashlight
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Legacy Codes
 Depends: firmware (>= 6.0)
-Filename: debs/ru.legacy.flashlight_1.0_iphoneos-arm.deb
-Size: 145608
-MD5sum: 140d81329e0dfb038447ccbc7e822117
-SHA1: 0fd981c2cb7aba51a69d1eac9037f82d5b932122
-SHA256: e60e943821997133ebce4504b237d240e6582e492fe00a139b12a85276096b69
+Filename: debs/ru.legacy.flashlight_1.0.1_iphoneos-arm.deb
+Size: 146806
+MD5sum: 8b9c0335c0bb773be7137060ca8dd10f
+SHA1: a9f3855a9277ce0cc96e8d83d3f5691f567d51a8
+SHA256: f8b69273a28c83e08e1c7bdd829109c417ca2595ec3c3a0ee4cc09ec8feb9c23
 Section: Utilities
 Description: A flashlight in the iOS 6 style.
  One big button, adjustable LED brightness, and a white-screen light on devices without a flash.
