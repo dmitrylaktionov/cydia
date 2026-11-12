@@ -15,3 +15,20 @@ Author: Legacy Codes
 Icon: file:///Applications/Codes.app/Icon@2x.png
 Name: Codes
 
+Package: ru.legacy.flashlight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Legacy Codes
+Depends: firmware (>= 6.0)
+Filename: debs/ru.legacy.flashlight_1.0_iphoneos-arm.deb
+Size: 145608
+MD5sum: 140d81329e0dfb038447ccbc7e822117
+SHA1: 0fd981c2cb7aba51a69d1eac9037f82d5b932122
+SHA256: e60e943821997133ebce4504b237d240e6582e492fe00a139b12a85276096b69
+Section: Utilities
+Description: A flashlight in the iOS 6 style.
+ One big button, adjustable LED brightness, and a white-screen light on devices without a flash.
+Author: Legacy Codes
+Icon: file:///Applications/Flashlight.app/Icon@2x.png
+Name: Flashlight
+
